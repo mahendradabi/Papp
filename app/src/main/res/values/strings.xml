@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Pet App</string>
+    <string name="app_name">Papp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="i_agree_to_the_terms_and_conditions">I agree to the terms and conditions.</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="you_will_receiver_a_link_to_setup_a_new_passowrd">You will receiver a link to setup a new passowrd.</string>
+    <string name="type_a_new_password_to_reset">Type a new password to reset</string>
+    <string name="new_password">New Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
 </resources>
